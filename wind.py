@@ -9,9 +9,9 @@
 # Output: Energy used from turbines
 ######################################################################
 #given
-speed=(value1)
-r=(value2)
-efficiency=(value3)
+speed=(12.29)
+r=(3.0)
+efficiency=(0.10)
 #equations
 a=3.14159265*(r**2)
 Pmax=0.5*1.2*a*(speed**3)
